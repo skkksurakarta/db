@@ -1,2 +1,3 @@
 main_url = 
-play_store =
+play_store = https://play.google.com/store/apps/details?id=com.whatsapp&pcampaignid=web_share
+check_version = Version 1.2
