@@ -1,4 +1,4 @@
-{
-  "playstore":"https://play.google.com/store/apps/details?id=com.whatsapp&pcampaignid=web_share",
-  "version":"Version 1.2"
-}
+[
+  {"playstore":"https://play.google.com/store/apps/details?id=com.whatsapp&pcampaignid=web_share"},
+  {"version":"Version 1.2"}
+]
