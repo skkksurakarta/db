@@ -1,3 +1,8 @@
 [
-  {"playstore":"https://play.google.com/store/apps/details?id=com.whatsapp&pcampaignid=web_share","version":"Version 1.0","spmb":"https://spmb.skkksurakarta.sch.id/apps/index.php"}
+  {
+    "playstore":"https://play.google.com/store/apps/details?id=com.whatsapp&pcampaignid=web_share",
+    "version":"Version 1.0",
+    "spmb":"https://spmb.skkksurakarta.sch.id/apps/index.php",
+    "signInPage":"https://soc.my.id/signin.php"
+  }
 ]
