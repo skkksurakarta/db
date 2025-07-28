@@ -4,7 +4,7 @@
     "iosAppStore":"https://skkksurakarta.sch.id",
     "spmb":"https://spmb.skkksurakarta.sch.id/apps/index.php",
     "signInPage":"https://soc.my.id/signin.php",
-    "sdmUrlBeranda":"dashboard.php?mode=aksesmobileapps",
+    "sdmUrlBeranda":"dashboard.php",
     "sdmUrlPresensi":"presensi.php?mode=aksesmobileapps",
     "sdmUrlCuti":"cuti.php?mode=aksesmobileapps",
     "sdmUrlStockOpname":"stockopname.php",
