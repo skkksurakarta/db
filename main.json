@@ -8,6 +8,12 @@
     "sdmUrlDashboard":"dashboard.php?mode=aksesmobileapps",
     "sdmUrlPresensi":"presensi.php?mode=aksesmobileapps",
     "sdmUrlCuti":"cuti.php?mode=aksesmobileapps",
-    "sdmUrlStockOpname":"stockopname.php"
+    "sdmUrlStockOpname":"stockopname.php",
+    "arisanUrlDashboard":"dashboard.php?mode=aksesmobileapps",
+    "arisanUrlLaporan":"laporan.php?mode=aksesmobileapps",
+    "arisanUrlProfil":"profil.php?mode=aksesmobileapps",
+    "arisanUrlNotifikasi":"notifikasi.php?mode=aksesmobileapps",
+    "arisanUrlNofifikasiJson":"notifikasi_json.php?mode=aksesmobileapps",
+    "arisanUrlPostRead":"postRead.php?mode=aksesmobileapps"
   }
 ]
