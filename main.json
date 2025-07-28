@@ -1,5 +1,6 @@
 [
   {
+    "version":"Version 1.0",
     "androidPlayStore":"https://play.google.com/store/apps/details?id=com.whatsapp&pcampaignid=web_share",
     "iosAppStore":"https://skkksurakarta.sch.id",
     "spmb":"https://spmb.skkksurakarta.sch.id/apps/index.php",
@@ -13,7 +14,6 @@
     "arisanUrlProfil":"profil.php?mode=aksesmobileapps",
     "arisanUrlNotifikasi":"notifikasi.php?mode=aksesmobileapps",
     "arisanUrlNofifikasiJson":"notifikasi_json.php?mode=aksesmobileapps",
-    "arisanUrlPostRead":"postRead.php?mode=aksesmobileapps",
-    "version":"Version 1.0"
+    "arisanUrlPostRead":"postRead.php?mode=aksesmobileapps"
   }
 ]
