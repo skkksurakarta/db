@@ -29,6 +29,6 @@
     "casisUrlNotifikasi":"notifikasi.php?mode=aksesmobileapps",
     "casisUrlProsesPembayaran":"prosespembayaran.php?mode=aksesmobileapps",
     "casisUrlRekapPembayaran":"rekappembayaran.php?mode=aksesmobileapps",
-    "casisUrlRincianTagihan":"rinciantagihan.php?mode=aksesmobileapps",
+    "casisUrlRincianTagihan":"rinciantagihan.php?mode=aksesmobileapps"
   }
 ]
