@@ -22,6 +22,13 @@
     "siswaUrlNotifikasi":"notifikasi.php?mode=aksesmobileapps",
     "siswaUrlProsesPembayaran":"prosespembayaran.php?mode=aksesmobileapps",
     "siswaUrlRekapPembayaran":"rekappembayaran.php?mode=aksesmobileapps",
-    "siswaUrlRincianTagihan":"rinciantagihan.php?mode=aksesmobileapps"
+    "siswaUrlRincianTagihan":"rinciantagihan.php?mode=aksesmobileapps",
+    "casisUrlBeranda":"dashboard.php?mode=aksesmobileapps",
+    "casisUrlBayarTagihan":"bayartagihan.php?mode=aksesmobileapps",
+    "casisUrlKartuTagihan":"kartutagihan.php?mode=aksesmobileapps",
+    "casisUrlNotifikasi":"notifikasi.php?mode=aksesmobileapps",
+    "casisUrlProsesPembayaran":"prosespembayaran.php?mode=aksesmobileapps",
+    "casisUrlRekapPembayaran":"rekappembayaran.php?mode=aksesmobileapps",
+    "casisUrlRincianTagihan":"rinciantagihan.php?mode=aksesmobileapps",
   }
 ]
