@@ -23,6 +23,8 @@
     "siswaUrlProsesPembayaran":"prosespembayaran.php?mode=aksesmobileapps",
     "siswaUrlRekapPembayaran":"rekappembayaran.php?mode=aksesmobileapps",
     "siswaUrlRincianTagihan":"rinciantagihan.php?mode=aksesmobileapps",
+    "siswaUrlNilai":"nilai.php?mode=aksesmobileapps",
+    "siswaUrlKonseling":"konseling.php?mode=aksesmobileapps",
     "casisUrlBeranda":"dashboard.php?mode=aksesmobileapps",
     "casisUrlBayarTagihan":"bayartagihan.php?mode=aksesmobileapps",
     "casisUrlKartuTagihan":"kartutagihan.php?mode=aksesmobileapps",
